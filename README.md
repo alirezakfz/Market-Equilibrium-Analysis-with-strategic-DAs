@@ -1,2 +1,2 @@
 # Market-Equilibrium-Analysis-with-strategic-DAs
-Equilibrium Analysis of strategic DAs in the Day Ahead Market.
+This repository contains simulation results for the paper "Equilibrium Analysis of Day-Ahead Electricity Markets with Strategic Demand Aggregators based on the Theory of Learning in Games".
